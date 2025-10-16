@@ -54,7 +54,7 @@ IPFind 是一个基于 Python 和 PyQt5 开发的图形化网络连接分析工�
 
 ### 1. 获取项目代码
 ```bash
-git clone <repository-url>
+git clone https://github.com/Noshiroa/IPFind.git
 cd scripts/IPFind
 ```
 
@@ -205,3 +205,4 @@ IPFind/
 
 
 **注意**: 使用 VirusTotal API 需要遵守其服务条款和使用限制。请合理使用API资源，避免触发限制。
+
