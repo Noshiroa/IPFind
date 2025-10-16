@@ -1,3 +1,5 @@
+# 观前须知本工具为个人闲暇时随便写的工具，主要是为了去除繁杂辨认相关恶意IP的一步
+
 # IPFind - 网络连接IP威胁情报分析工具
 
 ## 项目概述
@@ -52,7 +54,7 @@ IPFind 是一个基于 Python 和 PyQt5 开发的图形化网络连接分析工�
 
 ### 1. 获取项目代码
 ```bash
-git clone <repository-url>
+git clone https://github.com/Noshiroa/IPFind
 cd scripts/IPFind
 ```
 
@@ -200,5 +202,6 @@ IPFind/
 本工具仅用于教育和安全研究目的。使用者应遵守当地法律法规，不得用于非法用途。作者不对使用本工具造成的任何后果负责。
 
 ---
+
 
 **注意**: 使用 VirusTotal API 需要遵守其服务条款和使用限制。请合理使用API资源，避免触发限制。
